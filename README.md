@@ -2,7 +2,7 @@ dialysis-machine-parts-ns
 Reverse Engineering: Nipro Surdial 55Plus Fluidic Maintenance Components
 
 1. Project Overview
-	This repository contains the complete 3D mechanical CAD models, print-ready parametric STL files, and optimized 3MF slicing configuration profiles **for both Bybass coubling connector and Coupler Holder**. Additionally, it includes dedicated documentation featuring live photographs and video demonstrations of both manufactured parts undergoing strict verification and functional testing on the actual dialysis machine.
+	This repository contains the complete 3D mechanical CAD models, print-ready parametric STL files, and optimized 3MF slicing configuration profiles **for both Bypass Coupling connector and Coupler Holder**. Additionally, it includes dedicated documentation featuring live photographs and video demonstrations of both manufactured parts undergoing strict verification and functional testing on the actual dialysis machine.
 	This project was initiated in response to an urgent requirement from the **Ministry of Health (MOH)** due to the critical unavailability and loss of original OEM spare parts in local inventories. By employing precise reverse engineering methodologies, authentic components were sourced, measured, and successfully replicated to eliminate machine downtime and sustain uninterrupted patient care.
 
 2. Targeted Equipment & Component Identification
